@@ -1,4 +1,4 @@
-﻿Random random = new Random();
+﻿            Random random = new Random();
 
             // Создаем массив и заполняем его случайными числами
             int[] array = new int[4]; // Можете изменить размер массива по вашему желанию
